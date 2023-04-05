@@ -1,0 +1,9 @@
+.navbar {
+    box-shadow: 0 2px 6px #d6d6d6;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-collapse {
+    flex-grow: 0!important;
+}
